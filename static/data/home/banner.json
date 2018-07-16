@@ -1,0 +1,27 @@
+[
+  {
+    "product_id":1,
+    "product_name":"banner1",
+    "product_src":"static/img/banner/banner1.jpg"
+  },
+  {
+    "product_id":2,
+    "product_name":"banner2",
+    "product_src":"static/img/banner/banner2.jpg"
+  },
+  {
+    "product_id":3,
+    "product_name":"banner3",
+    "product_src":"static/img/banner/banner3.jpg"
+  },
+  {
+    "product_id":4,
+    "product_name":"banner4",
+    "product_src":"static/img/banner/banner4.jpg"
+  },
+  {
+    "product_id":5,
+    "product_name":"banner5",
+    "product_src":"static/img/banner/banner5.jpg"
+  }
+]

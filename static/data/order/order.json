@@ -1,0 +1,51 @@
+[
+  {
+    "user":"zlh",
+    "order_list":[
+        {
+            "order_id":1,
+            "good_id":4,
+            "type":3,
+            "good_name":"韩潮精品服饰",
+            "good_title":"安娅萱2016软妹子宽松女学生短袖t恤女",
+            "good_src":"/static/img/goods/4.jpg",
+            "good_price":69,
+            "good_freight":0.00,
+            "good_num":1
+        },
+        {
+            "order_id":2,
+            "good_id":5,
+            "type":2,
+            "good_name":"小米科技",
+            "good_title":"小米(MI)Air 13.3英寸全金属轻薄笔记本(i5-7200U",
+            "good_src":"/static/img/goods/5.jpg",
+            "good_price":4299,
+            "good_freight":12.00,
+            "good_num":1
+        },
+        {
+            "order_id":3,
+            "good_id":3,
+            "type":1,
+            "good_name":"你美我美护肤品",
+            "good_title":"御泥坊 清洁净肤黑面膜套装 21片装",
+            "good_src":"/static/img/goods/3.jpg",
+            "good_price":126,
+            "good_freight":6.00,
+            "good_num":1
+        },
+        {
+            "order_id":4,
+            "good_id":1,
+            "type":0,
+            "good_name":"伊美服饰",
+            "good_title":"韩版青少年休闲修身长袖紧身衬衫",
+            "good_src":"/static/img/goods/1.jpg",
+            "good_price":89,
+            "good_freight":0.00,
+            "good_num":1
+        }
+    ]
+  }
+]

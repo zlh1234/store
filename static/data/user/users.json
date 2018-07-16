@@ -1,0 +1,18 @@
+[
+  {
+    "user_id":1,
+    "username":"zlh",
+    "password":123456,
+    "nickname":"呵呵1235877",
+    "collect":51,
+    "concern":6,
+    "track":113,
+    "mytype":"88会员",
+    "taonum":550
+  },
+  {
+    "user_id":2,
+    "username":"aaa",
+    "password":123456
+  }
+]

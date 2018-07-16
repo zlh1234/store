@@ -1,0 +1,36 @@
+{
+  "category":"服饰鞋帽",
+  "category_title_img":"static/img/main/category_2/beij_2.jpg",
+  "list":[
+    {
+      "category_id":6,
+      "category_title":"女装",
+      "category_small_title":"大品牌",
+      "category_src":"static/img/main/category_2/nvzhuang.jpg"
+    },
+    {
+      "category_id":7,
+      "category_title":"运动装",
+      "category_small_title":"大品牌",
+      "category_src":"static/img/main/category_2/yundongzhuang.jpg"
+    },
+    {
+      "category_id":8,
+      "category_title":"连衣裙",
+      "category_small_title":"精品推荐",
+      "category_src":"static/img/main/category_2/lyq.jpg"
+    },
+    {
+      "category_id":9,
+      "category_title":"内衣",
+      "category_small_title":"精品推荐",
+      "category_src":"static/img/main/category_2/neiyi.jpg"
+    },
+    {
+      "category_id":10,
+      "category_title":"潮流精品",
+      "category_small_title":"精品推荐",
+      "category_src":"static/img/main/category_2/xz.jpg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "category":"手机数码",
+  "category_title_img":"static/img/main/category_1/beij_1.jpg",
+  "list":[
+    {
+      "category_id":1,
+      "category_title":"热门手机",
+      "category_small_title":"1元购手机",
+      "category_src":"static/img/main/category_1/shouj.jpg"
+    },
+    {
+      "category_id":2,
+      "category_title":"智能数码",
+      "category_small_title":"大品牌",
+      "category_src":"static/img/main/category_1/diann.jpg"
+    },
+    {
+      "category_id":3,
+      "category_title":"游戏组装",
+      "category_small_title":"精品推荐",
+      "category_src":"static/img/main/category_1/dian2.jpg"
+    },
+    {
+      "category_id":4,
+      "category_title":"硬件存储",
+      "category_small_title":"精品推荐",
+      "category_src":"static/img/main/category_1/cunchuka.jpg"
+    },
+    {
+      "category_id":5,
+      "category_title":"摄影产品",
+      "category_small_title":"看的见的岁月",
+      "category_src":"static/img/main/category_1/xiangj.jpg"
+    }
+  ]
+}
